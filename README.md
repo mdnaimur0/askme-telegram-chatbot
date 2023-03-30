@@ -1,3 +1,5 @@
 # [AskMe Telegram Chatbot](https://t.me/MiscellaneousChatBot)
 
-A chatbot that uses OpenAI's `gpt-3.5-turbo` model.
+A chatbot that uses OpenAI's `gpt-3.5-turbo` model. <br><br>
+
+![AskMe Bot](screenshot.jpg)
